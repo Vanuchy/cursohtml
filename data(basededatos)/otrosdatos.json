@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "titulo": "Mantenimiento Preventivo",
+        "descripcion": "Previene fallas inesperadas y prolonga la vida util de tus equipos. Este tipo de mantenimiento se implementa de forma regular, antes de que surjan problemas, mediante inspecciones, lubricacion y ajustes. Como por ejemplo: ",
+        "imagen": "../assets/mantenimiento-preventivo.png",
+        "opciones": ["Inspeccion Regular","Actualizacion","Limpieza","Y mucho mas..."]
+    },
+    {
+        "id": 2,
+        "titulo": "Mantenimiento Correctivo",
+        "descripcion": "Aborda fallas que ya han ocurrido, restaurando la funcionalidad de los equipos. Se implementa cuando se detecta un problema o una averia, lo que lo hace esencial para corregir defectos  minimizar el tiempo de inactividad. Como por ejemplo: ",
+        "imagen": "../assets/mantenimiento-correctivo.png",
+        "opciones": ["Diagnóstico de Problemas","Reparación de Equipos","Y mucho mas..."]
+    },
+    {
+        "id": 3,
+        "titulo": "Mantenimiento Predictivo",
+        "descripcion": "Previene fallas futuras utilizando tecnologias avanzadas para detectar señales de desgaste. Se implementa en una etapa temprana, antes de que los problemas se convierte en averias graves optimizando asi la productividad y reduciendo al minimo las interrupciones. Como por ejemplo: ",
+        "imagen": "../assets/mantenimiento-predictivo.png",
+        "opciones": ["Analisis de Temperatura","Analisis de Software","Y mucho mas..."]
+    },
+    {"id": 4,
+        "titulo": "Mantenimiento en Redes",
+        "descripcion": "Es esencial para evitar interrupciones en las operaciones, reducir el tiempo de inactividad y proteger los datos. Un mantenimiento adecuado asegura que los usuarios pueden acceder a la informacion de forma oportuna y que la productividad se mantenga alta. Como por ejemplo: ",
+        "imagen": "../assets/mantenimiento-redes.png",
+        "opciones": ["Configuracion de Redes","Gestion de Seguridad","Y mucho mas..."]
+    }
+]

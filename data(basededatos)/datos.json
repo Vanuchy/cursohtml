@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "titulo": "Mantenimiento",
+        "descripcion": "Soporte Tecnico: preventivo, correctivo, predictivo y en redes ",
+        "enlace": "templates/1mantenimiento.html",
+        "imagen": "../assets/1-Mantenimiento.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Capacitacion",
+        "descripcion": "Virtuales y presenciales: grupales e individuales",
+        "enlace": "templates/2capacitacion.html",
+        "imagen": "../assets/2-Capacitacion.png"
+    },
+    {
+        "id": 3,
+        "titulo": "Ventas",
+        "descripcion": "Venta de software y de almacenamiento en la nube",
+        "enlace":"templates/3ventas.html",
+        "imagen": "../assets/3-Venta.png"
+        
+    }
+]
